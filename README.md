@@ -9,4 +9,4 @@
 
 ## Personal Cabinet API for ISP
 
-Link for testing API: [Postman Collecation API share link for tests on dev server](https://api.postman.com/collections/4729010-47de3025-4081-4e33-8b72-5314af2cc7d4?access_key=PMAT-01J1MZ8GKH9NK9T7ZE0ZXX8JA4)
+Link for testing API: [Postman Collection API share link for tests on dev server](https://api.postman.com/collections/4729010-47de3025-4081-4e33-8b72-5314af2cc7d4?access_key=PMAT-01J1MZ8GKH9NK9T7ZE0ZXX8JA4)
